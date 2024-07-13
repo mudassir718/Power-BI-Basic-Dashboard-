@@ -1,6 +1,6 @@
 # Power-BI-Basic-Dashboard-
 
-Hey LinkedIn Fam! I'm thrilled to share my latest journey into the world of hashtag#dataanalytics through my very first Power BI hashtag#project. Coming fresh off my hashtag#AdvancedExcel class at Analytics Training Hub and specially thanks to Anil D. this has been an incredibly insightful experience. And, I am eagerly waiting for my next class which is about hashtag#PowerBI and I am preparing myself for the next class to standout.
+Hey Github! I'm thrilled to share my latest journey into the world of hashtag#dataanalytics through my very first Power BI hashtag#project. Coming fresh off my hashtag#AdvancedExcel class at Analytics Training Hub and specially thanks to Anil D. this has been an incredibly insightful experience. And, I am eagerly waiting for my next class which is about hashtag#PowerBI and I am preparing myself for the next class to standout.
 
 What's in Store:
 
