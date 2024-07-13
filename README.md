@@ -1,6 +1,6 @@
 # Power-BI-Basic-Dashboard-
 
-Hey Github! I'm thrilled to share my latest journey into the world of hashtag#dataanalytics through my very first Power BI hashtag#project. Coming fresh off my hashtag#AdvancedExcel class at Analytics Training Hub and specially thanks to Anil D. this has been an incredibly insightful experience. And, I am eagerly waiting for my next class which is about hashtag#PowerBI and I am preparing myself for the next class to standout.
+Hey Github! I'm thrilled to share my latest journey into the world of  dataan alytics through my very first Power BI project. Coming fresh off my AdvancedExcel class at Analytics Training Hub and specially thanks to Anil D. this has been an incredibly insightful experience. And, I am eagerly waiting for my next class which is about PowerBI and I am preparing myself for the next class to standout.
 
 What's in Store:
 
@@ -9,5 +9,5 @@ Why It Matters: This project isn't just a showcase of my skills; it's a testamen
 
 What's Next: 
 
-I'm eager to hear your hashtag#feedback and hashtag#suggestions. Let's connect and explore exciting hashtag#opportunities where hashtag#dataanalytics can make a real impact. Stay tuned as I continue to expand my expertise and share more projects soon!
+I'm eager to hear your feedback and suggestions. Let's connect and explore exciting opportunities where dataanalytics can make a real impact. Stay tuned as I continue to expand my expertise and share more projects soon!
 Let's make data speak louder together! 📊💡
